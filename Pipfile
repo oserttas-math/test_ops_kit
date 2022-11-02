@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+numpy = "*"
+jupyter = "*"
+pylint = "*"
+pytest = "*"
+pytest-cov = "*"
+click = "*"
+pip = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"

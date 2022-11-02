@@ -1,0 +1,6 @@
+# to create a requirements file in pipenv
+# pipenv run pip freeze > requirements.txt
+
+# to remove a sub git directory or a file
+# https://stackoverflow.com/questions/56873278/how-to-fix-error-filename-does-not-have-a-commit-checked-out-fatal-adding
+# rm -rf sub/.git
